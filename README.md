@@ -10,5 +10,4 @@ Databases: SQLite, PostgreSQL
 Tools: Git, GitHub, VS Code, Heroku
 
 📫 Contact Me
-LinkedIn: Your LinkedIn URL
 Email: noegddiniz@gmail.com
